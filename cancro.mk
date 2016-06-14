@@ -44,7 +44,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     camera.msm8974 \
     libxml2 \
-    Snap
+    SnapdragonCamera
 
 # Lights
 PRODUCT_PACKAGES += \
