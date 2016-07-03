@@ -12,6 +12,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# Official Tesla
+TESLA_BUILD_TYPE := Official
+TESLA_POSTFIX := -$(shell date +"%Y%m%d-%H%M")
+
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1920
 TARGET_SCREEN_WIDTH := 1080
